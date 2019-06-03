@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "user",
+      "email": "email@email.com",
+      "password": "Qwert",
+      "id": 1
+    },
+    {
+      "name": "Andria",
+      "email": "email@email.com",
+      "password": "Qwert",
+      "id": 2
+    },
+    {
+      "name": "Novi user",
+      "email": "email@email.com",
+      "password": "Asdf",
+      "userId": "109734054050264739572",
+      "id": 3
+    }
+  ]
+}
